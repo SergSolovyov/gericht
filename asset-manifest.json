@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/gericht/static/css/main.6b1d7a4a.css",
-    "main.js": "/gericht/static/js/main.f9be1067.js",
+    "main.css": "/gericht/static/css/main.82c74ea5.css",
+    "main.js": "/gericht/static/js/main.24125510.js",
     "static/media/meal.mp4": "/gericht/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
     "static/media/bg-aboutSection.png": "/gericht/static/media/bg-aboutSection.1c6521efcea04fd1e936.png",
     "static/media/bg-laurels.png": "/gericht/static/media/bg-laurels.c5a8c6aa490e73bd999b.png",
@@ -12,21 +12,25 @@
     "static/media/contact-bg.png": "/gericht/static/media/contact-bg.6c2c4b8687f2a223f84b.png",
     "static/media/gallery_1.png": "/gericht/static/media/gallery_1.c36a695f8a3b9d311106.png",
     "static/media/gallery_2.png": "/gericht/static/media/gallery_2.622762665bd997f778e3.png",
+    "static/media/slide1.png": "/gericht/static/media/slide1.1f8e6c070c3bad3f1758.png",
     "static/media/gallery_3.png": "/gericht/static/media/gallery_3.e36e0b0f99fda697b194.png",
+    "static/media/slide3.png": "/gericht/static/media/slide3.a19c4622778cf9add765.png",
     "static/media/gallery_4.png": "/gericht/static/media/gallery_4.5c51b7cf3522976bded7.png",
+    "static/media/slide2.png": "/gericht/static/media/slide2.97f298585cdf443f19ac.png",
     "static/media/cocktail.png": "/gericht/static/media/cocktail.83f00772d6ef7d54c7ea.png",
     "static/media/laurel__image.png": "/gericht/static/media/laurel__image.73858a74e673d50784b4.png",
+    "static/media/knife.png": "/gericht/static/media/knife.f1ca5363fac921f99d32.png",
     "static/media/G.png": "/gericht/static/media/G.b571eb82e589ec305ec9.png",
     "static/media/laurel_1.png": "/gericht/static/media/laurel_1.8bbdd51499739653b003.png",
     "static/media/laurel_3.png": "/gericht/static/media/laurel_3.48a7f5206184009dcb29.png",
     "static/media/laurel_2.png": "/gericht/static/media/laurel_2.361a4bc44b59b55abeda.png",
     "static/media/laurel_4.png": "/gericht/static/media/laurel_4.3f7ee934c17dccbd5fc6.png",
     "index.html": "/gericht/index.html",
-    "main.6b1d7a4a.css.map": "/gericht/static/css/main.6b1d7a4a.css.map",
-    "main.f9be1067.js.map": "/gericht/static/js/main.f9be1067.js.map"
+    "main.82c74ea5.css.map": "/gericht/static/css/main.82c74ea5.css.map",
+    "main.24125510.js.map": "/gericht/static/js/main.24125510.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b1d7a4a.css",
-    "static/js/main.f9be1067.js"
+    "static/css/main.82c74ea5.css",
+    "static/js/main.24125510.js"
   ]
 }
